@@ -1,0 +1,34 @@
+# AtCorderBeginnersSelection
+
+## Tasks
+
+1. Practice-A
+2. ABC086-A
+3. ABC081-A
+4. ABC081-B
+5. ABC087-B
+6. ABC083-B
+7. ABC088-B
+8. ABC085-B
+9. ABC085-C
+10. ABC049-C
+11. ABC086-C
+
+## AC
+
+- Practice-A
+- ABC086-A
+- ABC081-A
+- ABC081-B
+- ABC087-B
+- ABC083-B
+- ABC088-B
+- ABC085-B
+- ABC085-C
+- ABC049-C
+- ABC086-C
+
+## RETRY
+
+- ABC049-C
+- ABC086-C
